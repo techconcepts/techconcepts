@@ -1,0 +1,8 @@
+{
+  "printWidth": 130,
+  "single-quote": false,
+  "jsx-single-quote": false,
+  "no-bracket-spacing": false,
+  "bracket-same-line": false,
+  "arrowParens": "avoid"
+}
